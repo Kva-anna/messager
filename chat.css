@@ -1,0 +1,30 @@
+html, body {
+    margin: 0px;
+    padding: 0px
+}
+
+.asdf {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #690A0A;
+    height: 100vh;
+    width: 417px;
+}
+.lala {
+    
+    background-color: #8D8D8D;
+    height: 79px;
+    width: 358px;
+    border-radius: 15px;
+    
+}
+.hoho {
+    
+    margin-top: 17px;
+    background-color: #872D2D;
+    height: 79px;
+    width: 358px;
+    border-radius: 90px;
+}
+
